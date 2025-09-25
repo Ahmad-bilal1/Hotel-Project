@@ -1,4 +1,4 @@
-# Hotel-Project
+# Hotel-Menu-Project
 Project given by FAST university
 Task
 Using IF and Switch statement, write a program that displays the following menu for the food items
